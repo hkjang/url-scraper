@@ -1,3 +1,11 @@
+# Start
+```bash
+git clone https://github.com/hkjang/url-scraper.git
+cd url-scraper
+npm install
+node url-scraper.js
+```
+
 # Usage 
 
 http://localhost:3003/geturl?url=https://www.dabangapp.com&type=api&device=iPhone%206
